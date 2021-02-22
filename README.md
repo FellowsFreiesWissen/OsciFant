@@ -1,2 +1,3 @@
 # OsciFant
-https://commons.wikimedia.org/wiki/File:Oscifant.svg
+
+Originaldateien für den OsciFanten auf https://commons.wikimedia.org/wiki/File:Oscifant.svg
